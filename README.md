@@ -16,7 +16,7 @@ A lightweight Go client library for the [GetFreeProxy API](https://developer.get
 ## Installation
 
 ```bash
-go get github.com/gfpcom/freeproxy
+go get github.com/gfpcom/freeproxy-go
 ```
 
 ## Requirements
@@ -38,7 +38,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gfpcom/freeproxy"
+    "github.com/gfpcom/freeproxy-go"
 )
 
 func main() {

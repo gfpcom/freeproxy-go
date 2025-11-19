@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gfpcom/freeproxy"
+	"github.com/gfpcom/freeproxy-go"
 )
 
 func main() {
