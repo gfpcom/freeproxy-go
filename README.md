@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/gfpcom/freeproxy-go)](https://pkg.go.dev/github.com/gfpcom/freeproxy-go) [![Release](https://img.shields.io/github/v/release/gfpcom/freeproxy-go?label=release&style=flat-square)](https://github.com/gfpcom/freeproxy-go/releases) [![Build Status](https://img.shields.io/github/actions/workflow/status/gfpcom/freeproxy-go/test.yml?workflow=Test&style=flat-square)](https://github.com/gfpcom/freeproxy-go/actions) [![Coverage](https://img.shields.io/github/actions/workflow/status/gfpcom/freeproxy-go/test.yml?label=coverage&style=flat-square)](https://github.com/gfpcom/freeproxy-go/actions) [![License](https://img.shields.io/github/license/gfpcom/freeproxy-go?style=flat-square)](https://github.com/gfpcom/freeproxy-go/blob/main/LICENSE) [![Go Version](https://img.shields.io/badge/go-1.25-blue?logo=go&style=flat-square)](https://pkg.go.dev/github.com/gfpcom/freeproxy-go)
 
-A lightweight Go client library for the [GetFreeProxy API](https://developer.getfreeproxy.com/docs).
+A lightweight Go client library for the [GetFreeProxy API](https://developer.getfreeproxy.com).
 
 ## Features
 
