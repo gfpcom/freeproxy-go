@@ -43,7 +43,7 @@ func main() {
 	// Initialize client with your API key
 	c := freeproxy.New("your-api-key")
 
-	// Get all proxies
+	// Get latest 10 proxies
 	proxies, err := c.Query()
 	if err != nil {
 		log.Fatal(err)
